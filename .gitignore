@@ -1,29 +1,75 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# OS generated s**t #
+#####################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+.~lock*
 
-# Precompiled Headers
+
+# Eclipse #
+###########
+/RemoteSystemsTempFiles
+/.metadata
+
+
+# Backup files #
+################
+*~
+*.old
+*.bak
+*.new
+*.orig
+*.save
+
+
+# Precompiled Headers #
+#######################
 *.gch
 *.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
+# Compiled source #
+###################
 *.a
-*.lib
-
-# Executables
+*.class
+*.com
+*.dll
+*.dylib
+*.elf
 *.exe
+*.la
+*.lai
+*.lib
+*.lo
+*.o
+*.obj
 *.out
-*.app
+*.slo
+*.so
+
+
+# Packages and archives #
+#########################
+*.7z
+*.bz2
+*.deb
+*.dmg
+*.gz
+*.iso
+*.jar
+*.lz2
+*.rar
+*.rpm
+*.tar
+*.tbz
+*.tbz2
+*.tgz
+*.xz
+*.zip
+
+
+# Logs and databases #
+######################
+*.log
+*.sqlite
